@@ -1,2 +1,2 @@
 # probability-calibration-heart-disease
-Probability calibration for heart disease/healthcare data
+Probability calibration for classification models - this template uses heart disease/healthcare data as an example.
